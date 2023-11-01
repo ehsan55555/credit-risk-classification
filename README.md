@@ -2,11 +2,10 @@
 
 ## Overview
 
-- Welcome to the Credit Risk Classification Project.
-- This project aims to build a machine learning model for credit risk analysis.
+- This aims to build a machine learning model for credit risk analysis.
 
 
-## Project Structure
+## Repo Structure
 
 - **Credit_Risk Folder**:
   - `credit_risk_classification.ipynb`: The main Jupyter Notebook for data analysis.
